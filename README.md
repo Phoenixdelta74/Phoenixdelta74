@@ -1,58 +1,32 @@
-👋 Hi, I'm Sourav Sinha
-I am a Data Scientist and AI-ML Engineer with over 9 years of professional experience, including more than 6 years specialized in Data Science and Machine Learning. I am passionate about leveraging NLP, Deep Learning, and Large Language Models (LLMs) to solve complex business problems and optimize operations.
+🚀 Data Sorcerer & AI Architect
+I’m a Data Scientist and AI-ML Engineer who turns chaotic datasets into crystal-clear strategies. With 9 years of total professional experience and 6+ years deep-diving into AI/ML, I don't just write code—I build intelligent systems that scale.
 
-🚀 Professional Background
+🛠️ My Technical Superpowers
 
-JP Morgan Chase: Currently serving as a Control Manager, focusing on regulatory risk mitigation through NLP-based semantic search and automated risk reporting.
+The NLP Whisperer: Expert in NLP, Text Mining, and Large Language Models (LLMs) to make machines actually "get" us.
+Predictive Alchemist: I use Statistical Modeling and Predictive Analytics to see around corners.
+Deep Learning Architect: Crafting neural networks using TensorFlow, PyTorch, and Transformers.
+Data Sculptor: Mastering EDA, Feature Engineering, and Data Wrangling to find the signal in the noise.
+Cloud Commander: Deployed and optimized on Azure Cloud using Docker, Kubernetes, and MLOps.
+Visual Storyteller: Transforming complex data into high-impact narratives via Power BI and Tableau.
 
-
-Accenture: Previously a Senior Data Scientist where I designed ML classifiers for customer verbatims and deployed performance dashboards on Azure Cloud.
-
-
-Genpact: Led NLP projects for product categorization and improved operational efficiency through Salesforce data analysis.
-
-🛠️ Technical Toolkit
-
-Languages & Databases: Python, SQL.
-
-
-Machine Learning & AI: NLP, LLMs, Deep Learning, Predictive Modeling, Statistical Modeling, Text Mining, and Transformers.
-
-
-Libraries: TensorFlow, PyTorch, scikit-learn, spaCy, Hugging Face.
+Python & SQL        ######################### 100%
+Machine Learning    #######################-- 92%
+NLP & LLMs          ######################### 100%
+Deep Learning       ####################----- 80%
+Cloud & MLOps       ###################------ 75%
+Data Viz            ######################--- 88%
 
 
-Data Visualization: Power BI, Tableau.
+🌍 Human Communication Protocols
+I'm a polyglot who speaks: English | Hindi | Bengali | Manipuri | Assamese 
 
+🎖️ Certified Expertise
 
-Cloud & DevOps: Azure, Git, Docker, Kubernetes, MLOps.
+B.Tech in Chemical Engineering 
+Data Science & Machine Learning (Jigsaw Academy) 
+Data Visualization (Tableau) (Jigsaw Academy)
 
-🧪 Featured Projects
-
-Bank Term Deposit Predictive Analytics: Comprehensive pipeline involving data wrangling, EDA, feature engineering, and hyperparameter tuning.
-
-
-CSAT Analysis: Developed an end-to-end ML pipeline with Power BI visualization, deployed on Azure Cloud.
-
-
-Semantic Similarity Models: Built models using spaCy to align business descriptions with NAIC codes.
-
-🎓 Education & Certifications
-
-B.Tech in Chemical Engineering: Priyadarshini Institute of Engineering & Technology (2015).
-
-
-Data Science & Machine Learning: Certification from Jigsaw Academy.
-
-
-Data Visualization (Tableau): Certification from Jigsaw Academy.
-
-🌐 Languages
-English, Hindi, Bengali, Manipuri, and Assamese.
-
-📫 How to reach me:
-
-LinkedIn: www.linkedin.com/in/sourav-s-211088216
-
-
-Email: sinhasourav74@gmail.com
+Reach me 
+Linkedin - https://www.linkedin.com/in/sourav-s-211088216/
+Email - sinhasourav74@gmail.com
