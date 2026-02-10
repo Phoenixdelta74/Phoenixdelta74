@@ -1,4 +1,5 @@
-🚀 Data Sorcerer & AI Architect
+###🚀 Data Sorcerer & AI Architect
+
 I’m a Data Scientist and AI-ML Engineer who turns chaotic datasets into crystal-clear strategies. With 9 years of total professional experience and 6+ years deep-diving into AI/ML, I don't just write code—I build intelligent systems that scale.
 
 🛠️ My Technical Superpowers
