@@ -11,12 +11,12 @@ Data Sculptor: Mastering EDA, Feature Engineering, and Data Wrangling to find th
 Cloud Commander: Deployed and optimized on Azure Cloud using Docker, Kubernetes, and MLOps.
 Visual Storyteller: Transforming complex data into high-impact narratives via Power BI and Tableau.
 
-Python & SQL        ######################### 100%
-Machine Learning    #######################-- 92%
-NLP & LLMs          ######################### 100%
-Deep Learning       ####################----- 80%
-Cloud & MLOps       ###################------ 75%
-Data Viz            ######################--- 88%
+- Python & SQL        ######################### 100%
+- Machine Learning    #######################-- 92%
+- NLP & LLMs          ######################### 100%
+- Deep Learning       ####################----- 80%
+- Cloud & MLOps       ###################------ 75%
+- Data Viz            ######################--- 88%
 
 
 🌍 Human Communication Protocols
