@@ -15,7 +15,6 @@ Visual Storyteller: Transforming complex data into high-impact narratives via Po
 - Machine Learning    #######################-- 92%
 - NLP & LLMs          ######################### 100%
 - Deep Learning       ####################----- 80%
-- Cloud & MLOps       ###################------ 75%
 - Data Viz            ######################--- 88%
 
 
