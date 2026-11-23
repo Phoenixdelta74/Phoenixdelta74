@@ -1,4 +1,4 @@
-![Sourav Sinha, AI & Machine Learning Engineer](./profile-banner-3d.gif)
+![Sourav Sinha, AI & Machine Learning Engineer. Animated harness delegates to Research, Build, and Test agents, checks results, and retries the build.](./agent-harness-banner-colorful.gif)
 
 I build NLP, retrieval-augmented generation (RAG), and predictive ML applications. My work spans data preparation and model evaluation through APIs and deployment.
 
