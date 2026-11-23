@@ -1,32 +1,17 @@
-###🚀 Data Sorcerer & AI Architect
+![Sourav Sinha, AI & Machine Learning Engineer](./profile-banner-3d.gif)
 
-I’m a Data Scientist and AI-ML Engineer who turns chaotic datasets into crystal-clear strategies. With 9 years of total professional experience and 6+ years deep-diving into AI/ML, I don't just write code—I build intelligent systems that scale.
+I build NLP, retrieval-augmented generation (RAG), and predictive ML applications. My work spans data preparation and model evaluation through APIs and deployment.
 
-🛠️ My Technical Superpowers
+[LinkedIn](https://www.linkedin.com/in/sourav-s-211088216/)
 
-The NLP Whisperer: Expert in NLP, Text Mining, and Large Language Models (LLMs) to make machines actually "get" us.
-Predictive Alchemist: I use Statistical Modeling and Predictive Analytics to see around corners.
-Deep Learning Architect: Crafting neural networks using TensorFlow, PyTorch, and Transformers.
-Data Sculptor: Mastering EDA, Feature Engineering, and Data Wrangling to find the signal in the noise.
-Cloud Commander: Deployed and optimized on Azure Cloud using Docker, Kubernetes, and MLOps.
-Visual Storyteller: Transforming complex data into high-impact narratives via Power BI and Tableau.
+## Featured projects
 
-- Python & SQL        ######################### 100%
-- Machine Learning    #######################-- 92%
-- NLP & LLMs          ######################### 100%
-- Deep Learning       ####################----- 80%
-- Data Viz            ######################--- 88%
+- **Company Knowledge Assistant** answers questions about company documents and returns source context. The FastAPI app uses PostgreSQL with pgvector for retrieval, Cohere for reranking, and RAGAS for evaluation. [View repository](https://github.com/Phoenixdelta74/Knowledge-Assistant)
+- **Customer Churn Prediction** estimates bank customer churn with a TensorFlow/Keras model and a Streamlit interface for exploring predictions. [View repository](https://github.com/Phoenixdelta74/Churn-of-Customer)
+- **SAURIK IT Website** includes interactive demos of an AI workflow with human review and a forecasting chart with confidence intervals. Built with React, Vite, and Tailwind CSS. [View repository](https://github.com/Phoenixdelta74/saurik_website)
 
+## Technical focus
 
-🌍 Human Communication Protocols
-I'm a polyglot who speaks: English | Hindi | Bengali | Manipuri | Assamese 
-
-🎖️ Certified Expertise
-
-B.Tech in Chemical Engineering 
-Data Science & Machine Learning (Jigsaw Academy) 
-Data Visualization (Tableau) (Jigsaw Academy)
-
-Reach me 
-Linkedin - https://www.linkedin.com/in/sourav-s-211088216/
-Email - sinhasourav74@gmail.com
+- **AI and machine learning** · Python, NLP, LLMs, RAG, PyTorch, TensorFlow
+- **Applications and deployment** · FastAPI, Docker, Azure
+- **Data and analytics** · SQL, PostgreSQL, Power BI, Tableau
